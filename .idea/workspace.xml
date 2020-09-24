@@ -19,12 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7fed45c-5e66-4569-b636-50e0b1d5c70d" name="Default Changelist" comment="final version 1">
-      <change afterPath="$PROJECT_DIR$/images/2018-SANS-Industrial-IoT-Security-Survey.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/main.css" afterDir="false" />
-    </list>
+    <list default="true" id="b7fed45c-5e66-4569-b636-50e0b1d5c70d" name="Default Changelist" comment="final version 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +70,7 @@
       <updated>1600786371714</updated>
       <workItem from="1600786372748" duration="4072000" />
       <workItem from="1600794848967" duration="11477000" />
-      <workItem from="1600915040691" duration="1061000" />
+      <workItem from="1600915040691" duration="1855000" />
     </task>
     <task id="LOCAL-00001" summary="final version 1">
       <created>1600805404162</created>
@@ -91,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600810158129</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="final version 2">
+      <created>1600916269260</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600916269260</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,7 +114,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="final version 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="final version 1" />
+    <MESSAGE value="final version 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="final version 2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600786400649">
@@ -127,9 +130,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="611" y="110" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1600791328411" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600810161266">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600916273115">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600810161266" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600916273115" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600916971671">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1600916971671" />
   </component>
 </project>

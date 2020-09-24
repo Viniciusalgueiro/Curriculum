@@ -1,13 +1,7 @@
-**Creative CV Bootstrap Template**
+**Creative CV **
 v1.0.2
 Release Date: 24th Jan, 2018
-Update Date: 3rd Feb, 2018
-
-A Creative Resume/CV Template for Professionals built with Bootstrap 4 by TemplateFlip.com
-
-
-Live Demo - https://templateflip.com/demo/?template=creative-cv
-Download - https://templateflip.com/templates/creative-cv/
+Update Date: 24rd Sept, 2020
 
 
 License Terms
